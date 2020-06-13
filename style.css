@@ -1,0 +1,83 @@
+/* Aequivo CSS para o programa My Beer do C.U.M.A. desenvolvido por Ronaldo Gama*/
+
+/*tags*/
+* {
+	font-family: Helvetica;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background-color: #FFFFE0;
+}
+
+header {
+	background-color: #FFCC00;
+	min-height: 140px;
+}
+
+footer {
+	background-color: #FFCC00;
+	min-height: 30px;
+	text-align: center;
+	font-size: 8px;
+	padding: 5px;
+}
+
+/* IDs */
+
+#logo {
+	float: left;
+	padding: 10px;
+}
+
+#menu {
+	float: right;
+	padding: 50px;
+}
+
+#menu a {
+	text-decoration: none;
+	color: #403300;
+	padding: 15px;
+	font-weight: bold;
+}
+
+#menu a:hover {
+	background-color: #403300;
+	color: #FFCC00;
+}
+
+/* classes */
+
+.container {
+	clear: both;	
+	max-width: 1800px;
+	margin: auto;
+}
+
+.nome p {
+	color: #403300;
+	font-size: 50px;
+	font-weight: bold;
+}
+
+
+.home {
+	clear: both;
+	text-align: center;
+	min-height: 343px;
+	padding: 50px;
+}
+
+.home a {
+	text-decoration: none;
+	color: #403300;
+	font-weight: bold;
+	padding: 15px;
+}
+
+.home a:hover {
+	background-color: #403300;
+	color: #FFCC00;
+}

@@ -1,0 +1,7 @@
+Alterações a realizar:
+	- Comentar 100%
+	- Subir última alteração para o Github
+ - Site:
+	- Realizar testes.
+ - App:
+	- Criar
